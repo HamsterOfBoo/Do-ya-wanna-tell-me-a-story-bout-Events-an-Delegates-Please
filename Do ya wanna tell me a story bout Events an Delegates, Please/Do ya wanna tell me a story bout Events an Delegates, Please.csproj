@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Do_ya_wanna_tell_me_a_story_bout_Events_an_Delegates__Please</RootNamespace>
+  </PropertyGroup>
+
+</Project>

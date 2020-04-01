@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do ya wanna tell me a story bout Events an Delegates, Please", "Do ya wanna tell me a story bout Events an Delegates, Please\Do ya wanna tell me a story bout Events an Delegates, Please.csproj", "{255765A7-C490-48CD-8577-C265D61EB2E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255765A7-C490-48CD-8577-C265D61EB2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255765A7-C490-48CD-8577-C265D61EB2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255765A7-C490-48CD-8577-C265D61EB2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255765A7-C490-48CD-8577-C265D61EB2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C155517-F55C-409D-8B07-95A43D62F902}
+	EndGlobalSection
+EndGlobal
